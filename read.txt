@@ -1,0 +1,14 @@
+# Edge Detector - Topic
+# Implement your own edge detector using any method
+# (Gradient, DoG, LoG, Canny, etc.) or your own
+# Dataset: use your own images(more than 10 images)
+
+# 주의사항
+# No existing library
+# Have to include as many annotation lines as possible
+# (evaluation will be beased on your annotations)
+
+# 제출 내용
+# Annotated Source Code
+# Result Image Files
+# Report Document(형식 x)
